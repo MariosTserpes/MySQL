@@ -1,1 +1,4 @@
-
+purpose of trigger : like self-reporting method for inserted, updated or deleted actions
+how does work : automatically invoked in response to any of the actions 
+types of triggers : A. Row-level ---> When inserted , deleted or updated data
+                    B. Statement-level ---> for an entire event irrespective of number of rows changed
